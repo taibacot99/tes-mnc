@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:20
+#EXT-X-MEDIA-SEQUENCE:6355
+#EXTINF:6.28,
+https://anevia115.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10.m3u8
+#EXTINF:11.36,
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-mp4a_98800_eng=3.m3u8
